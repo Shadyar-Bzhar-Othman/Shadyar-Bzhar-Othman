@@ -1,4 +1,4 @@
-Hey👋 I'm a software development from KRI with a focus on Flutter and Laravel and I'm currently delving into Vue.js<br><br>👨‍💻All of my projects are available at https://shadyarbzharothman.netlify.app/<br>💬 Ask me about Flutter & Laravel<br>📫 How to reach me shadyarbzharothman22@gmail.com
+Hey👋 I'm a software development from KRI with a focus on Flutter and Laravel and I'm currently delving into Vue.js<br><br>👨‍💻 All of my projects are available at https://shadyarbzharothman.netlify.app/<br>💬 Ask me about Flutter & Laravel<br>📫 How to reach me shadyarbzharothman22@gmail.com
 
 
 ## 🌐 Socials:
