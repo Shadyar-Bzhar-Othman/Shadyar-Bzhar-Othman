@@ -2,6 +2,7 @@
     Curious Hobbies to Creative Solutions!
 </p>
 
+
 <!--
 <div align="center">
   <picture>
